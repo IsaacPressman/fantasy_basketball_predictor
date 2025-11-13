@@ -1,0 +1,310 @@
+============================================================
+RANDOM FOREST MODEL RESULTS
+============================================================
+
+
+PTS:
+----------------------------------------
+  MAE:  2.192
+  RMSE: 2.743
+  R²:   0.832
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    PTS                           : 0.0949
+    USAGE_MINUTES_PRODUCT         : 0.0759
+    PTS_PACE_ADJ                  : 0.0721
+    FGM                           : 0.0639
+    FGA                           : 0.0485
+    ADV_USG_PCT                   : 0.0441
+    PACE_USAGE_INTERACTION        : 0.0383
+    FTM                           : 0.0365
+    PTS_PER_MIN                   : 0.0345
+    MPG                           : 0.0334
+
+AST:
+----------------------------------------
+  MAE:  0.620
+  RMSE: 0.810
+  R²:   0.817
+
+  Best Parameters:
+    max_depth: 20
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    AST_PACE_ADJ                  : 0.1096
+    AST                           : 0.0991
+    ADV_AST_PCT                   : 0.0763
+    PLAYMAKER_ROLE                : 0.0651
+    USAGE_MINUTES_PRODUCT         : 0.0483
+    TOV                           : 0.0445
+    AST_LAG1                      : 0.0281
+    ADV_AST_RATIO                 : 0.0264
+    MIN                           : 0.0239
+    PTS                           : 0.0222
+
+REB:
+----------------------------------------
+  MAE:  0.814
+  RMSE: 1.096
+  R²:   0.798
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 100
+
+  Top 10 Features:
+    REB_PACE_ADJ                  : 0.1078
+    REB                           : 0.1044
+    ADV_DREB_PCT                  : 0.0466
+    REBOUNDER_ROLE                : 0.0465
+    ADV_REB_PCT                   : 0.0438
+    HEIGHT_INCHES                 : 0.0369
+    ADV_PIE                       : 0.0363
+    WEIGHT                        : 0.0297
+    BLK                           : 0.0249
+    MIN_EFFICIENCY_INTERACTION    : 0.0244
+
+BLK:
+----------------------------------------
+  MAE:  0.158
+  RMSE: 0.244
+  R²:   0.646
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 20
+    n_estimators: 100
+
+  Top 10 Features:
+    BLK                           : 0.1117
+    DEFENSIVE_STATS               : 0.0672
+    IS_CENTER                     : 0.0497
+    BLK_LAG1                      : 0.0497
+    HEIGHT_INCHES                 : 0.0463
+    REB_PACE_ADJ                  : 0.0435
+    HEIGHT_CAT                    : 0.0384
+    ADV_REB_PCT                   : 0.0326
+    WEIGHT                        : 0.0307
+    DEFENDER_ROLE                 : 0.0300
+
+STL:
+----------------------------------------
+  MAE:  0.206
+  RMSE: 0.286
+  R²:   0.511
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    STL                           : 0.1077
+    DEFENSIVE_STATS               : 0.0533
+    AST_PACE_ADJ                  : 0.0490
+    AST                           : 0.0441
+    MPG                           : 0.0309
+    MIN                           : 0.0291
+    TOTAL_MINUTES                 : 0.0290
+    USAGE_MINUTES_PRODUCT         : 0.0273
+    STL_LAG1                      : 0.0252
+    ADV_AST_PCT                   : 0.0251
+
+TOV:
+----------------------------------------
+  MAE:  0.322
+  RMSE: 0.434
+  R²:   0.739
+
+  Best Parameters:
+    max_depth: 20
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 50
+
+  Top 10 Features:
+    USAGE_MINUTES_PRODUCT         : 0.0867
+    TOV                           : 0.0802
+    PTS                           : 0.0730
+    MIN                           : 0.0442
+    PTS_PACE_ADJ                  : 0.0427
+    ADV_AST_PCT                   : 0.0380
+    FGM                           : 0.0378
+    ADV_USG_PCT                   : 0.0373
+    PACE_USAGE_INTERACTION        : 0.0366
+    FTM                           : 0.0351
+
+MIN:
+----------------------------------------
+  MAE:  3.708
+  RMSE: 4.736
+  R²:   0.712
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 50
+
+  Top 10 Features:
+    MIN                           : 0.0880
+    MPG                           : 0.0723
+    PTS_PACE_ADJ                  : 0.0684
+    PTS                           : 0.0652
+    USAGE_MINUTES_PRODUCT         : 0.0605
+    TOTAL_MINUTES                 : 0.0582
+    MIN_EFFICIENCY_INTERACTION    : 0.0482
+    FTM                           : 0.0385
+    FGM                           : 0.0353
+    FGA                           : 0.0321
+
+FG3M:
+----------------------------------------
+  MAE:  0.349
+  RMSE: 0.461
+  R²:   0.756
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    FG3A                          : 0.0922
+    THREE_PT_VOLUME               : 0.0888
+    FG3M                          : 0.0758
+    ADV_PCT_PTS_3PT               : 0.0515
+    ADV_PCT_FGA_2PT               : 0.0409
+    ADV_PCT_PTS_2PT               : 0.0405
+    THREE_PT_RATE                 : 0.0387
+    PTS_PACE_ADJ                  : 0.0312
+    ADV_PCT_FGA_3PT               : 0.0307
+    PTS                           : 0.0285
+
+FGA:
+----------------------------------------
+  MAE:  1.617
+  RMSE: 2.038
+  R²:   0.832
+
+  Best Parameters:
+    max_depth: 20
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    PTS                           : 0.0817
+    USAGE_MINUTES_PRODUCT         : 0.0730
+    PTS_PACE_ADJ                  : 0.0670
+    FGA                           : 0.0664
+    FGM                           : 0.0597
+    ADV_USG_PCT                   : 0.0431
+    PACE_USAGE_INTERACTION        : 0.0429
+    SCORER_ROLE                   : 0.0377
+    MIN                           : 0.0340
+    FTM                           : 0.0327
+
+FTA:
+----------------------------------------
+  MAE:  0.561
+  RMSE: 0.746
+  R²:   0.823
+
+  Best Parameters:
+    max_depth: 20
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    FTM                           : 0.0866
+    FTA                           : 0.0852
+    PTS                           : 0.0705
+    USAGE_MINUTES_PRODUCT         : 0.0607
+    PTS_PACE_ADJ                  : 0.0490
+    PTS_PER_MIN                   : 0.0379
+    FGM                           : 0.0371
+    ADV_USG_PCT                   : 0.0370
+    PACE_USAGE_INTERACTION        : 0.0343
+    FGA                           : 0.0328
+
+FG_PCT:
+----------------------------------------
+  MAE:  0.034
+  RMSE: 0.048
+  R²:   0.552
+
+  Best Parameters:
+    max_depth: 10
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    ADV_PCT_PTS_3PT               : 0.0937
+    FG_PCT                        : 0.0659
+    ADV_PCT_FGA_2PT               : 0.0603
+    THREE_PT_RATE                 : 0.0566
+    ADV_PCT_PTS_2PT               : 0.0473
+    ADV_PCT_FGA_3PT               : 0.0417
+    FG3A                          : 0.0401
+    ADV_OREB_PCT                  : 0.0369
+    IS_CENTER                     : 0.0327
+    ADV_EFG_PCT                   : 0.0310
+
+FT_PCT:
+----------------------------------------
+  MAE:  0.070
+  RMSE: 0.112
+  R²:   0.271
+
+  Best Parameters:
+    max_depth: 15
+    max_features: sqrt
+    min_samples_leaf: 5
+    min_samples_split: 10
+    n_estimators: 200
+
+  Top 10 Features:
+    FT_PCT                        : 0.0675
+    FG3A                          : 0.0345
+    FT_PCT_LAG1                   : 0.0342
+    THREE_PT_VOLUME               : 0.0330
+    FG3M                          : 0.0300
+    FG3_PCT                       : 0.0274
+    ADV_PCT_PTS_2PT               : 0.0265
+    ADV_OREB_PCT                  : 0.0252
+    ADV_PCT_PTS_3PT               : 0.0239
+    ADV_PCT_FGA_2PT               : 0.0201
+
+============================================================
+OVERALL SUMMARY
+============================================================
+Average MAE: 0.888
+Average R²:  0.691

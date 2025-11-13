@@ -1,0 +1,241 @@
+============================================================
+BASELINE MODEL RESULTS
+============================================================
+
+
+Last Season:
+----------------------------------------
+
+PTS:
+  MAE:  3.235
+  RMSE: 4.035
+  R²:   0.653
+  MAPE: 44.9%
+
+AST:
+  MAE:  0.886
+  RMSE: 1.163
+  R²:   0.649
+  MAPE: 50.2%
+
+REB:
+  MAE:  1.077
+  RMSE: 1.402
+  R²:   0.679
+  MAPE: 36.3%
+
+BLK:
+  MAE:  0.158
+  RMSE: 0.237
+  R²:   0.596
+  MAPE: 39.1%
+
+STL:
+  MAE:  0.233
+  RMSE: 0.328
+  R²:   0.338
+  MAPE: 36.8%
+
+TOV:
+  MAE:  0.413
+  RMSE: 0.538
+  R²:   0.618
+  MAPE: 50.0%
+
+MIN:
+  MAE:  5.062
+  RMSE: 6.547
+  R²:   0.433
+  MAPE: 32.4%
+
+FG3M:
+  MAE:  0.440
+  RMSE: 0.578
+  R²:   0.631
+  MAPE: 52.0%
+
+FGA:
+  MAE:  2.359
+  RMSE: 3.002
+  R²:   0.650
+  MAPE: 39.6%
+
+FTA:
+  MAE:  0.838
+  RMSE: 1.099
+  R²:   0.647
+  MAPE: 62.8%
+
+FG_PCT:
+  MAE:  0.042
+  RMSE: 0.057
+  R²:   0.350
+  MAPE: 9.3%
+
+FT_PCT:
+  MAE:  0.073
+  RMSE: 0.109
+  R²:   0.030
+  MAPE: 9.8%
+
+Average Metrics:
+  MAE: 1.235
+  R²:  0.523
+
+3-Year Average:
+----------------------------------------
+
+PTS:
+  MAE:  3.220
+  RMSE: 3.969
+  R²:   0.686
+  MAPE: 46.5%
+
+AST:
+  MAE:  0.883
+  RMSE: 1.145
+  R²:   0.697
+  MAPE: 45.8%
+
+REB:
+  MAE:  1.120
+  RMSE: 1.464
+  R²:   0.669
+  MAPE: 34.5%
+
+BLK:
+  MAE:  0.146
+  RMSE: 0.204
+  R²:   0.714
+  MAPE: 38.9%
+
+STL:
+  MAE:  0.209
+  RMSE: 0.267
+  R²:   0.515
+  MAPE: 35.0%
+
+TOV:
+  MAE:  0.423
+  RMSE: 0.531
+  R²:   0.652
+  MAPE: 48.2%
+
+MIN:
+  MAE:  4.771
+  RMSE: 6.058
+  R²:   0.487
+  MAPE: 28.3%
+
+FG3M:
+  MAE:  0.443
+  RMSE: 0.588
+  R²:   0.669
+  MAPE: 53.5%
+
+FGA:
+  MAE:  2.359
+  RMSE: 2.929
+  R²:   0.680
+  MAPE: 39.8%
+
+FTA:
+  MAE:  0.807
+  RMSE: 1.065
+  R²:   0.700
+  MAPE: 64.8%
+
+FG_PCT:
+  MAE:  0.042
+  RMSE: 0.057
+  R²:   0.350
+  MAPE: 9.3%
+
+FT_PCT:
+  MAE:  0.073
+  RMSE: 0.109
+  R²:   0.030
+  MAPE: 9.8%
+
+Average Metrics:
+  MAE: 1.208
+  R²:  0.571
+
+Position Average:
+----------------------------------------
+
+PTS:
+  MAE:  5.467
+  RMSE: 6.983
+  R²:   -0.086
+  MAPE: 86.4%
+
+AST:
+  MAE:  1.468
+  RMSE: 2.055
+  R²:   -0.179
+  MAPE: 102.3%
+
+REB:
+  MAE:  1.859
+  RMSE: 2.554
+  R²:   -0.095
+  MAPE: 67.6%
+
+BLK:
+  MAE:  0.284
+  RMSE: 0.433
+  R²:   -0.116
+  MAPE: 89.9%
+
+STL:
+  MAE:  0.323
+  RMSE: 0.422
+  R²:   -0.061
+  MAPE: 68.6%
+
+TOV:
+  MAE:  0.677
+  RMSE: 0.901
+  R²:   -0.123
+  MAPE: 82.4%
+
+MIN:
+  MAE:  7.724
+  RMSE: 8.993
+  R²:   -0.038
+  MAPE: 56.8%
+
+FG3M:
+  MAE:  0.778
+  RMSE: 0.973
+  R²:   -0.085
+  MAPE: 111.2%
+
+FGA:
+  MAE:  4.104
+  RMSE: 5.158
+  R²:   -0.078
+  MAPE: 77.3%
+
+FTA:
+  MAE:  1.328
+  RMSE: 1.872
+  R²:   -0.114
+  MAPE: 121.4%
+
+FG_PCT:
+  MAE:  0.054
+  RMSE: 0.075
+  R²:   -0.067
+  MAPE: 11.8%
+
+FT_PCT:
+  MAE:  0.091
+  RMSE: 0.134
+  R²:   -0.048
+  MAPE: 12.5%
+
+Average Metrics:
+  MAE: 2.013
+  R²:  -0.091

@@ -107,7 +107,8 @@ class LagFeatureCreator:
         print("="*60)
         
         # Stats to create rolling averages for (main counting stats)
-        rolling_stats = ['PTS', 'AST', 'REB', 'STL', 'BLK', 'MIN']
+        rolling_stats = ['PTS', 'AST', 'REB', 'STL', 'BLK', 'MIN', 
+                 'TOV', 'FG3M', 'FGA', 'FTA']
         
         # Filter to existing stats
         rolling_stats = [stat for stat in rolling_stats if stat in df.columns]

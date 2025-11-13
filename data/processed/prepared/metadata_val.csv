@@ -1,0 +1,401 @@
+PLAYER_ID,PLAYER_NAME,TEAM_NAME,TEAM_ABBREVIATION,SEASON,SEASON_ORDER,SCHOOL,COUNTRY,DRAFT_YEAR,HEIGHT
+2544,LeBron James,Los Angeles Lakers,LAL,2023-24,4,St. Vincent-St. Mary HS (OH),USA,2003,6-9
+101108,Chris Paul,Golden State Warriors,GSW,2023-24,4,Wake Forest,USA,2005,6-0
+200768,Kyle Lowry,Philadelphia 76ers,PHI,2023-24,4,Villanova,USA,2006,6-0
+201142,Kevin Durant,Phoenix Suns,PHX,2023-24,4,Texas,USA,2007,6-11
+201143,Al Horford,Boston Celtics,BOS,2023-24,4,Florida,Dominican Republic,2007,6-8
+201144,Mike Conley,Minnesota Timberwolves,MIN,2023-24,4,Ohio State,USA,2007,6-1
+201145,Jeff Green,Houston Rockets,HOU,2023-24,4,Georgetown,USA,2007,6-8
+201566,Russell Westbrook,LA Clippers,LAC,2023-24,4,UCLA,USA,2008,6-4
+201567,Kevin Love,Miami Heat,MIA,2023-24,4,UCLA,USA,2008,6-10
+201569,Eric Gordon,Phoenix Suns,PHX,2023-24,4,Indiana,USA,2008,6-3
+201572,Brook Lopez,Milwaukee Bucks,MIL,2023-24,4,Stanford,USA,2008,7-1
+201587,Nicolas Batum,Philadelphia 76ers,PHI,2023-24,4,Le Mans,France,2008,6-7
+201599,DeAndre Jordan,Denver Nuggets,DEN,2023-24,4,Texas A&M,USA,2008,6-11
+201935,James Harden,LA Clippers,LAC,2023-24,4,Arizona State,USA,2009,6-5
+201939,Stephen Curry,Golden State Warriors,GSW,2023-24,4,Davidson,USA,2009,6-2
+201942,DeMar DeRozan,Chicago Bulls,CHI,2023-24,4,Southern California,USA,2009,6-6
+201950,Jrue Holiday,Boston Celtics,BOS,2023-24,4,UCLA,USA,2009,6-4
+201959,Taj Gibson,Detroit Pistons,DET,2023-24,4,Southern California,USA,2009,6-9
+201988,Patty Mills,Miami Heat,MIA,2023-24,4,St. Mary's,Australia,2009,6-2
+202066,Garrett Temple,Toronto Raptors,TOR,2023-24,4,Louisiana State,USA,Undrafted,6-5
+202331,Paul George,LA Clippers,LAC,2023-24,4,Fresno State,USA,2010,6-8
+202681,Kyrie Irving,Dallas Mavericks,DAL,2023-24,4,Duke,Australia,2011,6-2
+202684,Tristan Thompson,Cleveland Cavaliers,CLE,2023-24,4,Texas-Austin,Canada,2011,6-9
+202685,Jonas Valančiūnas,New Orleans Pelicans,NOP,2023-24,4,Lietuvos rytas Vilnius,Lithuania,2011,6-11
+202687,Bismack Biyombo,Oklahoma City Thunder,OKC,2023-24,4,Baloncesto Fuenlabrada,DRC,2011,6-8
+202691,Klay Thompson,Golden State Warriors,GSW,2023-24,4,Washington State,USA,2011,6-5
+202692,Alec Burks,New York Knicks,NYK,2023-24,4,Colorado,USA,2011,6-5
+202693,Markieff Morris,Dallas Mavericks,DAL,2023-24,4,Kansas,USA,2011,6-9
+202695,Kawhi Leonard,LA Clippers,LAC,2023-24,4,San Diego State,USA,2011,6-6
+202696,Nikola Vučević,Chicago Bulls,CHI,2023-24,4,Southern California,Montenegro,2011,6-9
+202699,Tobias Harris,Philadelphia 76ers,PHI,2023-24,4,Tennessee,USA,2011,6-8
+202704,Reggie Jackson,Denver Nuggets,DEN,2023-24,4,Boston College,USA,2011,6-2
+202709,Cory Joseph,Golden State Warriors,GSW,2023-24,4,Texas,Canada,2011,6-2
+202710,Jimmy Butler III,Miami Heat,MIA,2023-24,4,Marquette,USA,2011,6-6
+203076,Anthony Davis,Los Angeles Lakers,LAL,2023-24,4,Kentucky,USA,2012,6-10
+203078,Bradley Beal,Phoenix Suns,PHX,2023-24,4,Florida,USA,2012,6-4
+203081,Damian Lillard,Milwaukee Bucks,MIL,2023-24,4,Weber State,USA,2012,6-2
+203083,Andre Drummond,Chicago Bulls,CHI,2023-24,4,Connecticut,USA,2012,6-11
+203084,Harrison Barnes,Sacramento Kings,SAC,2023-24,4,North Carolina,USA,2012,6-7
+203110,Draymond Green,Golden State Warriors,GSW,2023-24,4,Michigan State,USA,2012,6-6
+203114,Khris Middleton,Milwaukee Bucks,MIL,2023-24,4,Texas A&M,USA,2012,6-7
+203458,Alex Len,Sacramento Kings,SAC,2023-24,4,Maryland,Ukraine,2013,7-0
+203468,CJ McCollum,New Orleans Pelicans,NOP,2023-24,4,Lehigh,USA,2013,6-3
+203471,Dennis Schröder,Brooklyn Nets,BKN,2023-24,4,Braunschweig,Germany,2013,6-1
+203482,Kelly Olynyk,Toronto Raptors,TOR,2023-24,4,Gonzaga,Canada,2013,7-0
+203484,Kentavious Caldwell-Pope,Denver Nuggets,DEN,2023-24,4,Georgia,USA,2013,6-5
+203486,Mason Plumlee,LA Clippers,LAC,2023-24,4,Duke,USA,2013,7-0
+203497,Rudy Gobert,Minnesota Timberwolves,MIN,2023-24,4,Cholet,France,2013,7-1
+203501,Tim Hardaway Jr.,Dallas Mavericks,DAL,2023-24,4,Michigan,USA,2013,6-5
+203507,Giannis Antetokounmpo,Milwaukee Bucks,MIL,2023-24,4,Filathlitikos,Greece,2013,6-11
+203552,Seth Curry,Charlotte Hornets,CHA,2023-24,4,Duke,USA,Undrafted,6-1
+203897,Zach LaVine,Chicago Bulls,CHI,2023-24,4,UCLA,USA,2014,6-5
+203903,Jordan Clarkson,Utah Jazz,UTA,2023-24,4,Missouri,USA,2014,6-5
+203914,Gary Harris,Orlando Magic,ORL,2023-24,4,Michigan State,USA,2014,6-4
+203915,Spencer Dinwiddie,Los Angeles Lakers,LAL,2023-24,4,Colorado,USA,2014,6-5
+203924,Jerami Grant,Portland Trail Blazers,POR,2023-24,4,Syracuse,USA,2014,6-7
+203926,Doug McDermott,Indiana Pacers,IND,2023-24,4,Creighton,USA,2014,6-7
+203932,Aaron Gordon,Denver Nuggets,DEN,2023-24,4,Arizona,USA,2014,6-8
+203935,Marcus Smart,Memphis Grizzlies,MEM,2023-24,4,Oklahoma State,USA,2014,6-3
+203937,Kyle Anderson,Minnesota Timberwolves,MIN,2023-24,4,UCLA,USA,2014,6-8
+203939,Dwight Powell,Dallas Mavericks,DAL,2023-24,4,Stanford,Canada,2014,6-10
+203944,Julius Randle,New York Knicks,NYK,2023-24,4,Kentucky,USA,2014,6-9
+203952,Andrew Wiggins,Golden State Warriors,GSW,2023-24,4,Kansas,Canada,2014,6-6
+203954,Joel Embiid,Philadelphia 76ers,PHI,2023-24,4,Kansas,Cameroon,2014,7-0
+203957,Danté Exum,Dallas Mavericks,DAL,2023-24,4,Australian Institute of Sport,Australia,2014,6-5
+203967,Dario Šarić,Golden State Warriors,GSW,2023-24,4,Anadolu Efes,Croatia,2014,6-10
+203991,Clint Capela,Atlanta Hawks,ATL,2023-24,4,Elan Chalon,Switzerland,2014,6-10
+203992,Bogdan Bogdanović,Atlanta Hawks,ATL,2023-24,4,Fenerbahce,Serbia,2014,6-5
+203994,Jusuf Nurkić,Phoenix Suns,PHX,2023-24,4,Cedevita,Bosnia and Herzegovina,2014,6-11
+203995,Vasilije Micic,Charlotte Hornets,CHA,2023-24,4,Serbia,Serbia,2014,6-3
+203999,Nikola Jokić,Denver Nuggets,DEN,2023-24,4,Mega Basket,Serbia,2014,6-11
+204001,Kristaps Porziņģis,Boston Celtics,BOS,2023-24,4,Cajasol Sevilla,Latvia,2015,7-2
+204060,Joe Ingles,Orlando Magic,ORL,2023-24,4,Maccabi Tel Aviv,Australia,Undrafted,6-8
+204456,T.J. McConnell,Indiana Pacers,IND,2023-24,4,Arizona,USA,2015,6-1
+1626145,Tyus Jones,Washington Wizards,WAS,2023-24,4,Duke,USA,2015,6-0
+1626153,Delon Wright,Miami Heat,MIA,2023-24,4,Utah,USA,2015,6-5
+1626156,D'Angelo Russell,Los Angeles Lakers,LAL,2023-24,4,Ohio State,USA,2015,6-3
+1626157,Karl-Anthony Towns,Minnesota Timberwolves,MIN,2023-24,4,Kentucky,USA,2015,7-0
+1626158,Richaun Holmes,Washington Wizards,WAS,2023-24,4,Bowling Green,USA,2015,6-9
+1626162,Kelly Oubre Jr.,Philadelphia 76ers,PHI,2023-24,4,Kansas,USA,2015,6-8
+1626164,Devin Booker,Phoenix Suns,PHX,2023-24,4,Kentucky,USA,2015,6-5
+1626166,Cameron Payne,Philadelphia 76ers,PHI,2023-24,4,Murray State,USA,2015,6-3
+1626167,Myles Turner,Indiana Pacers,IND,2023-24,4,Texas,USA,2015,6-11
+1626168,Trey Lyles,Sacramento Kings,SAC,2023-24,4,Kentucky,Canada,2015,6-9
+1626171,Bobby Portis,Milwaukee Bucks,MIL,2023-24,4,Arkansas,USA,2015,6-9
+1626172,Kevon Looney,Golden State Warriors,GSW,2023-24,4,UCLA,USA,2015,6-9
+1626179,Terry Rozier,Miami Heat,MIA,2023-24,4,Louisville,USA,2015,6-1
+1626181,Norman Powell,LA Clippers,LAC,2023-24,4,UCLA,USA,2015,6-3
+1626192,Pat Connaughton,Milwaukee Bucks,MIL,2023-24,4,Notre Dame,USA,2015,6-5
+1626204,Larry Nance Jr.,New Orleans Pelicans,NOP,2023-24,4,Wyoming,USA,2015,6-6
+1626220,Royce O'Neale,Phoenix Suns,PHX,2023-24,4,Baylor,USA,Undrafted,6-6
+1627732,Ben Simmons,Brooklyn Nets,BKN,2023-24,4,Louisiana State,Australia,2016,6-10
+1627734,Domantas Sabonis,Sacramento Kings,SAC,2023-24,4,Gonzaga,Lithuania,2016,6-10
+1627736,Malik Beasley,Milwaukee Bucks,MIL,2023-24,4,Florida State,USA,2016,6-4
+1627739,Kris Dunn,Utah Jazz,UTA,2023-24,4,Providence,USA,2016,6-3
+1627741,Buddy Hield,Philadelphia 76ers,PHI,2023-24,4,Oklahoma,Bahamas,2016,6-4
+1627742,Brandon Ingram,New Orleans Pelicans,NOP,2023-24,4,Duke,USA,2016,6-8
+1627747,Caris LeVert,Cleveland Cavaliers,CLE,2023-24,4,Michigan,USA,2016,6-7
+1627749,Dejounte Murray,Atlanta Hawks,ATL,2023-24,4,Washington,USA,2016,6-4
+1627750,Jamal Murray,Denver Nuggets,DEN,2023-24,4,Kentucky,Canada,2016,6-4
+1627751,Jakob Poeltl,Toronto Raptors,TOR,2023-24,4,Utah,Austria,2016,7-0
+1627752,Taurean Prince,Los Angeles Lakers,LAL,2023-24,4,Baylor,USA,2016,6-6
+1627759,Jaylen Brown,Boston Celtics,BOS,2023-24,4,California,USA,2016,6-6
+1627763,Malcolm Brogdon,Portland Trail Blazers,POR,2023-24,4,Virginia,USA,2016,6-4
+1627777,Georges Niang,Cleveland Cavaliers,CLE,2023-24,4,Iowa State,USA,2016,6-6
+1627780,Gary Payton II,Golden State Warriors,GSW,2023-24,4,Oregon State,USA,Undrafted,6-2
+1627783,Pascal Siakam,Indiana Pacers,IND,2023-24,4,New Mexico State,Cameroon,2016,6-8
+1627826,Ivica Zubac,LA Clippers,LAC,2023-24,4,Mega Basket,Croatia,2016,7-0
+1627827,Dorian Finney-Smith,Brooklyn Nets,BKN,2023-24,4,Florida,USA,Undrafted,6-7
+1627832,Fred VanVleet,Houston Rockets,HOU,2023-24,4,Wichita State,USA,Undrafted,6-0
+1627884,Derrick Jones Jr.,Dallas Mavericks,DAL,2023-24,4,UNLV,USA,Undrafted,6-6
+1627936,Alex Caruso,Chicago Bulls,CHI,2023-24,4,Texas A&M,USA,Undrafted,6-5
+1628365,Markelle Fultz,Orlando Magic,ORL,2023-24,4,Washington,USA,2017,6-4
+1628368,De'Aaron Fox,Sacramento Kings,SAC,2023-24,4,Kentucky,USA,2017,6-3
+1628369,Jayson Tatum,Boston Celtics,BOS,2023-24,4,Duke,USA,2017,6-8
+1628370,Malik Monk,Sacramento Kings,SAC,2023-24,4,Kentucky,USA,2017,6-3
+1628371,Jonathan Isaac,Orlando Magic,ORL,2023-24,4,Florida State,USA,2017,6-10
+1628374,Lauri Markkanen,Utah Jazz,UTA,2023-24,4,Arizona,Finland,2017,7-1
+1628378,Donovan Mitchell,Cleveland Cavaliers,CLE,2023-24,4,Louisville,USA,2017,6-2
+1628379,Luke Kennard,Memphis Grizzlies,MEM,2023-24,4,Duke,USA,2017,6-5
+1628380,Zach Collins,San Antonio Spurs,SAS,2023-24,4,Gonzaga,USA,2017,6-9
+1628381,John Collins,Utah Jazz,UTA,2023-24,4,Wake Forest,USA,2017,6-9
+1628384,OG Anunoby,New York Knicks,NYK,2023-24,4,Indiana,United Kingdom,2017,6-7
+1628386,Jarrett Allen,Cleveland Cavaliers,CLE,2023-24,4,Texas,USA,2017,6-9
+1628389,Bam Adebayo,Miami Heat,MIA,2023-24,4,Kentucky,USA,2017,6-9
+1628392,Isaiah Hartenstein,New York Knicks,NYK,2023-24,4,Zalgiris,Germany,2017,7-0
+1628398,Kyle Kuzma,Washington Wizards,WAS,2023-24,4,Utah,USA,2017,6-8
+1628401,Derrick White,Boston Celtics,BOS,2023-24,4,Colorado,USA,2017,6-4
+1628404,Josh Hart,New York Knicks,NYK,2023-24,4,Villanova,USA,2017,6-5
+1628415,Dillon Brooks,Houston Rockets,HOU,2023-24,4,Oregon,Canada,2017,6-7
+1628418,Thomas Bryant,Miami Heat,MIA,2023-24,4,Indiana,USA,2017,6-9
+1628420,Monté Morris,Minnesota Timberwolves,MIN,2023-24,4,Iowa State,USA,2017,6-2
+1628436,Luke Kornet,Boston Celtics,BOS,2023-24,4,Vanderbilt,USA,Undrafted,7-1
+1628449,Chris Boucher,Toronto Raptors,TOR,2023-24,4,Oregon,Saint Lucia,Undrafted,6-8
+1628464,Daniel Theis,LA Clippers,LAC,2023-24,4,Brose Bamberg,Germany,Undrafted,6-8
+1628467,Maxi Kleber,Dallas Mavericks,DAL,2023-24,4,Bayern Munich,Germany,Undrafted,6-10
+1628470,Torrey Craig,Chicago Bulls,CHI,2023-24,4,South Carolina Upstate,USA,Undrafted,6-5
+1628960,Grayson Allen,Phoenix Suns,PHX,2023-24,4,Duke,USA,2018,6-3
+1628963,Marvin Bagley III,Washington Wizards,WAS,2023-24,4,Duke,USA,2018,6-10
+1628964,Mo Bamba,Philadelphia 76ers,PHI,2023-24,4,Texas,USA,2018,7-0
+1628969,Mikal Bridges,Brooklyn Nets,BKN,2023-24,4,Villanova,USA,2018,6-6
+1628970,Miles Bridges,Charlotte Hornets,CHA,2023-24,4,Michigan State,USA,2018,6-7
+1628971,Bruce Brown,Toronto Raptors,TOR,2023-24,4,Miami,USA,2018,6-4
+1628973,Jalen Brunson,New York Knicks,NYK,2023-24,4,Villanova,USA,2018,6-2
+1628975,Jevon Carter,Chicago Bulls,CHI,2023-24,4,West Virginia,USA,2018,6-0
+1628976,Wendell Carter Jr.,Orlando Magic,ORL,2023-24,4,Duke,USA,2018,6-10
+1628978,Donte DiVincenzo,New York Knicks,NYK,2023-24,4,Villanova,USA,2018,6-4
+1628981,Bruno Fernando,Atlanta Hawks,ATL,2023-24,4,Maryland,Angola,2019,6-9
+1628983,Shai Gilgeous-Alexander,Oklahoma City Thunder,OKC,2023-24,4,Kentucky,Canada,2018,6-6
+1628988,Aaron Holiday,Houston Rockets,HOU,2023-24,4,UCLA,USA,2018,6-0
+1628989,Kevin Huerter,Sacramento Kings,SAC,2023-24,4,Maryland,USA,2018,6-6
+1628991,Jaren Jackson Jr.,Memphis Grizzlies,MEM,2023-24,4,Michigan State,USA,2018,6-10
+1628995,Kevin Knox II,Detroit Pistons,DET,2023-24,4,Kentucky,USA,2018,6-8
+1628997,Caleb Martin,Miami Heat,MIA,2023-24,4,Nevada,USA,Undrafted,6-5
+1628998,Cody Martin,Charlotte Hornets,CHA,2023-24,4,Nevada,USA,2019,6-6
+1629003,Shake Milton,New York Knicks,NYK,2023-24,4,Southern Methodist,USA,2018,6-5
+1629004,Svi Mykhailiuk,Boston Celtics,BOS,2023-24,4,Kansas,Ukraine,2018,6-7
+1629006,Josh Okogie,Phoenix Suns,PHX,2023-24,4,Georgia Tech,Nigeria,2018,6-4
+1629008,Michael Porter Jr.,Denver Nuggets,DEN,2023-24,4,Missouri,USA,2018,6-10
+1629011,Mitchell Robinson,New York Knicks,NYK,2023-24,4,Western Kentucky,USA,2018,7-0
+1629012,Collin Sexton,Utah Jazz,UTA,2023-24,4,Alabama,USA,2018,6-3
+1629013,Landry Shamet,Washington Wizards,WAS,2023-24,4,Wichita State,USA,2018,6-5
+1629014,Anfernee Simons,Portland Trail Blazers,POR,2023-24,4,Edgewater HS (FL),USA,2018,6-3
+1629018,Gary Trent Jr.,Toronto Raptors,TOR,2023-24,4,Duke,USA,2018,6-5
+1629020,Jarred Vanderbilt,Los Angeles Lakers,LAL,2023-24,4,Kentucky,USA,2018,6-8
+1629021,Moritz Wagner,Orlando Magic,ORL,2023-24,4,Michigan,Germany,2018,6-11
+1629022,Lonnie Walker IV,Brooklyn Nets,BKN,2023-24,4,Miami,USA,2018,6-4
+1629023,P.J. Washington,Dallas Mavericks,DAL,2023-24,4,Kentucky,USA,2019,6-7
+1629026,Kenrich Williams,Oklahoma City Thunder,OKC,2023-24,4,TCU,USA,Undrafted,6-7
+1629027,Trae Young,Atlanta Hawks,ATL,2023-24,4,Oklahoma,USA,2018,6-2
+1629028,Deandre Ayton,Portland Trail Blazers,POR,2023-24,4,Arizona,Bahamas,2018,7-0
+1629029,Luka Dončić,Dallas Mavericks,DAL,2023-24,4,Real Madrid,Slovenia,2018,6-8
+1629048,Goga Bitadze,Orlando Magic,ORL,2023-24,4,Mega Basket,Georgia,2019,6-11
+1629060,Rui Hachimura,Los Angeles Lakers,LAL,2023-24,4,Gonzaga,Japan,2019,6-8
+1629111,Jock Landale,Houston Rockets,HOU,2023-24,4,St. Mary's,Australia,Undrafted,6-11
+1629130,Duncan Robinson,Miami Heat,MIA,2023-24,4,Michigan,USA,Undrafted,6-7
+1629162,Jordan McLaughlin,Minnesota Timberwolves,MIN,2023-24,4,Southern California,USA,Undrafted,5-11
+1629216,Gabe Vincent,Los Angeles Lakers,LAL,2023-24,4,California-Santa Barbara,USA,Undrafted,6-2
+1629234,Drew Eubanks,Phoenix Suns,PHX,2023-24,4,Oregon State,USA,Undrafted,6-10
+1629312,Haywood Highsmith,Miami Heat,MIA,2023-24,4,Wheeling Jesuit,USA,2018,6-5
+1629599,Amir Coffey,LA Clippers,LAC,2023-24,4,Minnesota,USA,Undrafted,6-7
+1629610,DaQuan Jeffries,New York Knicks,NYK,2023-24,4,Tulsa,USA,Undrafted,6-5
+1629611,Terance Mann,LA Clippers,LAC,2023-24,4,Florida State,USA,2019,6-6
+1629614,Andrew Nembhard,Indiana Pacers,IND,2023-24,4,Gonzaga,Canada,2022,6-4
+1629618,Jalen Pickett,Denver Nuggets,DEN,2023-24,4,Penn State,USA,2023,6-2
+1629622,Max Strus,Cleveland Cavaliers,CLE,2023-24,4,DePaul,USA,Undrafted,6-5
+1629626,Bol Bol,Phoenix Suns,PHX,2023-24,4,Oregon,Sudan,2019,7-3
+1629627,Zion Williamson,New Orleans Pelicans,NOP,2023-24,4,Duke,USA,2019,6-6
+1629628,RJ Barrett,Toronto Raptors,TOR,2023-24,4,Duke,Canada,2019,6-6
+1629629,Cam Reddish,Los Angeles Lakers,LAL,2023-24,4,Duke,USA,2019,6-7
+1629631,De'Andre Hunter,Atlanta Hawks,ATL,2023-24,4,Virginia,USA,2019,6-7
+1629632,Coby White,Chicago Bulls,CHI,2023-24,4,North Carolina,USA,2019,6-4
+1629636,Darius Garland,Cleveland Cavaliers,CLE,2023-24,4,Vanderbilt,USA,2019,6-1
+1629637,Jaxson Hayes,Los Angeles Lakers,LAL,2023-24,4,Texas,USA,2019,7-0
+1629638,Nickeil Alexander-Walker,Minnesota Timberwolves,MIN,2023-24,4,Virginia Tech,Canada,2019,6-5
+1629639,Tyler Herro,Miami Heat,MIA,2023-24,4,Kentucky,USA,2019,6-5
+1629640,Keldon Johnson,San Antonio Spurs,SAS,2023-24,4,Kentucky,USA,2019,6-6
+1629646,Charles Bassey,San Antonio Spurs,SAS,2023-24,4,Western Kentucky,Nigeria,2021,6-10
+1629650,Moses Brown,Portland Trail Blazers,POR,2023-24,4,UCLA,USA,Undrafted,7-2
+1629651,Nic Claxton,Brooklyn Nets,BKN,2023-24,4,Georgia,USA,2019,6-11
+1629652,Luguentz Dort,Oklahoma City Thunder,OKC,2023-24,4,Arizona State,Canada,Undrafted,6-4
+1629655,Daniel Gafford,Dallas Mavericks,DAL,2023-24,4,Arkansas,USA,2019,6-10
+1629656,Quentin Grimes,Detroit Pistons,DET,2023-24,4,Houston,USA,2021,6-4
+1629659,Talen Horton-Tucker,Utah Jazz,UTA,2023-24,4,Iowa State,USA,2019,6-4
+1629661,Cameron Johnson,Brooklyn Nets,BKN,2023-24,4,North Carolina,USA,2019,6-8
+1629673,Jordan Poole,Washington Wizards,WAS,2023-24,4,Michigan,USA,2019,6-4
+1629674,Neemias Queta,Boston Celtics,BOS,2023-24,4,Utah State,Portugal,2021,7-0
+1629675,Naz Reid,Minnesota Timberwolves,MIN,2023-24,4,Louisiana State,USA,Undrafted,6-9
+1629680,Matisse Thybulle,Portland Trail Blazers,POR,2023-24,4,Washington,USA,2019,6-5
+1629684,Grant Williams,Charlotte Hornets,CHA,2023-24,4,Tennessee,USA,2019,6-7
+1629723,John Konchar,Memphis Grizzlies,MEM,2023-24,4,Indiana-Purdue Fort Wayne,USA,Undrafted,6-5
+1629726,Garrison Mathews,Atlanta Hawks,ATL,2023-24,4,Lipscomb,USA,Undrafted,6-6
+1629731,Dean Wade,Cleveland Cavaliers,CLE,2023-24,4,Kansas State,USA,Undrafted,6-9
+1630162,Anthony Edwards,Minnesota Timberwolves,MIN,2023-24,4,Georgia,USA,2020,6-4
+1630163,LaMelo Ball,Charlotte Hornets,CHA,2023-24,4,Illawarra,USA,2020,6-7
+1630166,Deni Avdija,Washington Wizards,WAS,2023-24,4,Maccabi Tel Aviv,Israel,2020,6-8
+1630167,Obi Toppin,Indiana Pacers,IND,2023-24,4,Dayton,USA,2020,6-9
+1630168,Onyeka Okongwu,Atlanta Hawks,ATL,2023-24,4,Southern California,USA,2020,6-10
+1630169,Tyrese Haliburton,Indiana Pacers,IND,2023-24,4,Iowa State,USA,2020,6-5
+1630170,Devin Vassell,San Antonio Spurs,SAS,2023-24,4,Florida State,USA,2020,6-5
+1630171,Isaac Okoro,Cleveland Cavaliers,CLE,2023-24,4,Auburn,USA,2020,6-4
+1630172,Patrick Williams,Chicago Bulls,CHI,2023-24,4,Florida State,USA,2020,6-6
+1630173,Precious Achiuwa,New York Knicks,NYK,2023-24,4,Memphis,Nigeria,2020,6-8
+1630174,Aaron Nesmith,Indiana Pacers,IND,2023-24,4,Vanderbilt,USA,2020,6-5
+1630175,Cole Anthony,Orlando Magic,ORL,2023-24,4,North Carolina,USA,2020,6-2
+1630178,Tyrese Maxey,Philadelphia 76ers,PHI,2023-24,4,Kentucky,USA,2020,6-2
+1630182,Josh Green,Dallas Mavericks,DAL,2023-24,4,Arizona,Australia,2020,6-6
+1630183,Jaden McDaniels,Minnesota Timberwolves,MIN,2023-24,4,Washington,USA,2020,6-9
+1630188,Jalen Smith,Indiana Pacers,IND,2023-24,4,Maryland,USA,2020,6-8
+1630191,Isaiah Stewart,Detroit Pistons,DET,2023-24,4,Washington,USA,2020,6-8
+1630192,Zeke Nnaji,Denver Nuggets,DEN,2023-24,4,Arizona,USA,2020,6-10
+1630193,Immanuel Quickley,Toronto Raptors,TOR,2023-24,4,Kentucky,USA,2020,6-2
+1630194,Paul Reed,Philadelphia 76ers,PHI,2023-24,4,DePaul,USA,2020,6-9
+1630198,Isaiah Joe,Oklahoma City Thunder,OKC,2023-24,4,Arkansas,USA,2020,6-4
+1630200,Tre Jones,San Antonio Spurs,SAS,2023-24,4,Duke,USA,2020,6-1
+1630202,Payton Pritchard,Boston Celtics,BOS,2023-24,4,Oregon,USA,2020,6-1
+1630205,Lamar Stevens,Memphis Grizzlies,MEM,2023-24,4,Penn State,USA,Undrafted,6-7
+1630208,Nick Richards,Charlotte Hornets,CHA,2023-24,4,Kentucky,Jamaica,2020,6-11
+1630214,Xavier Tillman,Boston Celtics,BOS,2023-24,4,Michigan State,USA,2020,6-8
+1630215,Jared Butler,Washington Wizards,WAS,2023-24,4,Baylor,USA,2021,6-3
+1630217,Desmond Bane,Memphis Grizzlies,MEM,2023-24,4,TCU,USA,2020,6-6
+1630224,Jalen Green,Houston Rockets,HOU,2023-24,4,NBA G League Ignite,USA,2021,6-4
+1630228,Jonathan Kuminga,Golden State Warriors,GSW,2023-24,4,NBA G League Ignite,DRC,2021,6-7
+1630230,Naji Marshall,New Orleans Pelicans,NOP,2023-24,4,Xavier,USA,Undrafted,6-6
+1630231,KJ Martin,Philadelphia 76ers,PHI,2023-24,4,IMG Academy (FL),USA,2020,6-6
+1630241,Sam Merrill,Cleveland Cavaliers,CLE,2023-24,4,Utah State,USA,2020,6-4
+1630243,Trevelin Queen,Orlando Magic,ORL,2023-24,4,New Mexico State,USA,Undrafted,6-5
+1630245,Ayo Dosunmu,Chicago Bulls,CHI,2023-24,4,Illinois,USA,2021,6-4
+1630249,Vít Krejčí,Atlanta Hawks,ATL,2023-24,4,Zaragoza,Czech Republic,2020,6-8
+1630256,Jae'Sean Tate,Houston Rockets,HOU,2023-24,4,Ohio State,USA,Undrafted,6-4
+1630264,Anthony Gill,Washington Wizards,WAS,2023-24,4,Virginia,USA,Undrafted,6-7
+1630288,Jeff Dowtin Jr.,Philadelphia 76ers,PHI,2023-24,4,Rhode Island,USA,Undrafted,6-3
+1630314,Brandon Williams,Dallas Mavericks,DAL,2023-24,4,Arizona,USA,Undrafted,6-1
+1630322,Lindy Waters III,Oklahoma City Thunder,OKC,2023-24,4,Oklahoma State,USA,Undrafted,6-5
+1630346,Matt Ryan,New Orleans Pelicans,NOP,2023-24,4,Tennessee-Chattanooga,USA,Undrafted,6-6
+1630526,Jeremiah Robinson-Earl,New Orleans Pelicans,NOP,2023-24,4,Villanova,USA,2021,6-9
+1630527,Brandon Boston,LA Clippers,LAC,2023-24,4,Kentucky,USA,2021,6-6
+1630529,Herbert Jones,New Orleans Pelicans,NOP,2023-24,4,Alabama,USA,2021,6-7
+1630530,Trey Murphy III,New Orleans Pelicans,NOP,2023-24,4,Virginia,USA,2021,6-8
+1630531,Jaden Springer,Boston Celtics,BOS,2023-24,4,Tennessee,USA,2021,6-4
+1630532,Franz Wagner,Orlando Magic,ORL,2023-24,4,Michigan,Germany,2021,6-10
+1630533,Ziaire Williams,Memphis Grizzlies,MEM,2023-24,4,Stanford,USA,2021,6-9
+1630534,Ochai Agbaji,Toronto Raptors,TOR,2023-24,4,Kansas,USA,2022,6-5
+1630537,Chris Duarte,Sacramento Kings,SAC,2023-24,4,Oregon,Dominican Republic,2021,6-5
+1630538,Bones Hyland,LA Clippers,LAC,2023-24,4,Virginia Commonwealth,USA,2021,6-2
+1630540,Miles McBride,New York Knicks,NYK,2023-24,4,West Virginia,USA,2021,6-2
+1630541,Moses Moody,Golden State Warriors,GSW,2023-24,4,Arkansas,USA,2021,6-5
+1630544,Tre Mann,Charlotte Hornets,CHA,2023-24,4,Florida,USA,2021,6-4
+1630548,Johnny Juzang,Utah Jazz,UTA,2023-24,4,UCLA,USA,Undrafted,6-7
+1630549,Day'Ron Sharpe,Brooklyn Nets,BKN,2023-24,4,North Carolina,USA,2021,6-10
+1630550,JT Thor,Charlotte Hornets,CHA,2023-24,4,Auburn,USA,2021,6-9
+1630551,Justin Champagnie,Washington Wizards,WAS,2023-24,4,Pittsburgh,USA,Undrafted,6-6
+1630552,Jalen Johnson,Atlanta Hawks,ATL,2023-24,4,Duke,USA,2021,6-8
+1630556,Kessler Edwards,Sacramento Kings,SAC,2023-24,4,Pepperdine,USA,2021,6-7
+1630557,Corey Kispert,Washington Wizards,WAS,2023-24,4,Gonzaga,USA,2021,6-6
+1630558,Davion Mitchell,Sacramento Kings,SAC,2023-24,4,Baylor,USA,2021,6-0
+1630559,Austin Reaves,Los Angeles Lakers,LAL,2023-24,4,Oklahoma,USA,Undrafted,6-5
+1630560,Cam Thomas,Brooklyn Nets,BKN,2023-24,4,Louisiana State,Japan,2021,6-3
+1630567,Scottie Barnes,Toronto Raptors,TOR,2023-24,4,Florida State,USA,2021,6-8
+1630568,Luka Garza,Minnesota Timberwolves,MIN,2023-24,4,Iowa,USA,2021,6-10
+1630570,Trendon Watford,Brooklyn Nets,BKN,2023-24,4,Louisiana State,USA,Undrafted,6-8
+1630572,Sandro Mamukelashvili,San Antonio Spurs,SAS,2023-24,4,Seton Hall,Georgia,2021,6-9
+1630573,Sam Hauser,Boston Celtics,BOS,2023-24,4,Virginia,USA,Undrafted,6-7
+1630577,Julian Champagnie,San Antonio Spurs,SAS,2023-24,4,St. John's,USA,Undrafted,6-7
+1630578,Alperen Sengun,Houston Rockets,HOU,2023-24,4,Besiktas,Turkey,2021,6-11
+1630579,Jericho Sims,New York Knicks,NYK,2023-24,4,Texas,USA,2021,6-10
+1630581,Josh Giddey,Oklahoma City Thunder,OKC,2023-24,4,NBA Global Academy,Australia,2021,6-7
+1630583,Santi Aldama,Memphis Grizzlies,MEM,2023-24,4,Loyola-Maryland,Spain,2021,7-0
+1630590,Scotty Pippen Jr.,Memphis Grizzlies,MEM,2023-24,4,Vanderbilt,USA,Undrafted,6-2
+1630591,Jalen Suggs,Orlando Magic,ORL,2023-24,4,Gonzaga,USA,2021,6-5
+1630592,Jalen Wilson,Brooklyn Nets,BKN,2023-24,4,Kansas,USA,2023,6-6
+1630595,Cade Cunningham,Detroit Pistons,DET,2023-24,4,Oklahoma State,USA,2021,6-6
+1630596,Evan Mobley,Cleveland Cavaliers,CLE,2023-24,4,Southern California,USA,2021,6-11
+1630598,Aaron Wiggins,Oklahoma City Thunder,OKC,2023-24,4,Maryland,USA,2021,6-5
+1630611,Gui Santos,Golden State Warriors,GSW,2023-24,4,Minas,Brazil,2022,6-7
+1630625,Dalano Banton,Portland Trail Blazers,POR,2023-24,4,Nebraska,Canada,2021,6-8
+1630631,Jose Alvarado,New Orleans Pelicans,NOP,2023-24,4,Georgia Tech,USA,Undrafted,6-0
+1630639,A.J. Lawson,Dallas Mavericks,DAL,2023-24,4,South Carolina,Canada,Undrafted,6-6
+1630643,Jay Huff,Denver Nuggets,DEN,2023-24,4,Virginia,USA,Undrafted,7-1
+1630649,Stanley Umude,Detroit Pistons,DET,2023-24,4,Arkansas,USA,Undrafted,6-6
+1630658,Colin Castleton,Los Angeles Lakers,LAL,2023-24,4,Florida,USA,Undrafted,6-10
+1630692,Jordan Goodwin,Memphis Grizzlies,MEM,2023-24,4,St. Louis,USA,Undrafted,6-3
+1630695,Micah Potter,Utah Jazz,UTA,2023-24,4,Wisconsin,USA,Undrafted,6-9
+1630699,MarJon Beauchamp,Milwaukee Bucks,MIL,2023-24,4,NBA G League Ignite,USA,2022,6-7
+1630700,Dyson Daniels,New Orleans Pelicans,NOP,2023-24,4,NBA G League Ignite,Australia,2022,6-7
+1630702,Jaden Hardy,Dallas Mavericks,DAL,2023-24,4,NBA G League Ignite,USA,2022,6-3
+1630703,Scoot Henderson,Portland Trail Blazers,POR,2023-24,4,NBA G League Ignite,USA,2023,6-3
+1631093,Jaden Ivey,Detroit Pistons,DET,2023-24,4,Purdue,USA,2022,6-3
+1631094,Paolo Banchero,Orlando Magic,ORL,2023-24,4,Duke,USA,2022,6-10
+1631095,Jabari Smith Jr.,Houston Rockets,HOU,2023-24,4,Auburn,USA,2022,6-11
+1631096,Chet Holmgren,Oklahoma City Thunder,OKC,2023-24,4,Gonzaga,USA,2022,7-1
+1631097,Bennedict Mathurin,Indiana Pacers,IND,2023-24,4,Arizona,Canada,2022,6-5
+1631098,Johnny Davis,Washington Wizards,WAS,2023-24,4,Wisconsin,USA,2022,6-4
+1631099,Keegan Murray,Sacramento Kings,SAC,2023-24,4,Iowa,USA,2022,6-8
+1631101,Shaedon Sharpe,Portland Trail Blazers,POR,2023-24,4,Kentucky,Canada,2022,6-5
+1631102,TyTy Washington Jr.,Milwaukee Bucks,MIL,2023-24,4,Kentucky,USA,2022,6-3
+1631103,Malaki Branham,San Antonio Spurs,SAS,2023-24,4,Ohio State,USA,2022,6-4
+1631104,Blake Wesley,San Antonio Spurs,SAS,2023-24,4,Notre Dame,USA,2022,6-4
+1631105,Jalen Duren,Detroit Pistons,DET,2023-24,4,Memphis,USA,2022,6-10
+1631106,Tari Eason,Houston Rockets,HOU,2023-24,4,Louisiana State,USA,2022,6-8
+1631107,Nikola Jović,Miami Heat,MIA,2023-24,4,Mega Basket,Serbia,2022,6-10
+1631108,Max Christie,Los Angeles Lakers,LAL,2023-24,4,Michigan State,USA,2022,6-5
+1631109,Mark Williams,Charlotte Hornets,CHA,2023-24,4,Duke,USA,2022,7-1
+1631110,Jeremy Sochan,San Antonio Spurs,SAS,2023-24,4,Baylor,Poland,2022,6-8
+1631111,Wendell Moore Jr.,Minnesota Timberwolves,MIN,2023-24,4,Duke,USA,2022,6-5
+1631114,Jalen Williams,Oklahoma City Thunder,OKC,2023-24,4,Santa Clara,USA,2022,6-5
+1631115,Orlando Robinson,Miami Heat,MIA,2023-24,4,Fresno State,USA,Undrafted,6-10
+1631116,Patrick Baldwin Jr.,Washington Wizards,WAS,2023-24,4,Wisconsin-Milwaukee,USA,2022,6-9
+1631117,Walker Kessler,Utah Jazz,UTA,2023-24,4,Auburn,USA,2022,7-2
+1631119,Jaylin Williams,Oklahoma City Thunder,OKC,2023-24,4,Arkansas,USA,2022,6-9
+1631121,Bryce McGowens,Charlotte Hornets,CHA,2023-24,4,Nebraska,USA,2022,6-6
+1631124,Julian Strawther,Denver Nuggets,DEN,2023-24,4,Gonzaga,USA,2023,6-6
+1631128,Christian Braun,Denver Nuggets,DEN,2023-24,4,Kansas,USA,2022,6-6
+1631133,Jabari Walker,Portland Trail Blazers,POR,2023-24,4,Colorado,USA,2022,6-7
+1631157,Ryan Rollins,Milwaukee Bucks,MIL,2023-24,4,Toledo,USA,2022,6-3
+1631159,Leonard Miller,Minnesota Timberwolves,MIN,2023-24,4,NBA G League Ignite,Canada,2023,6-10
+1631165,Keon Ellis,Sacramento Kings,SAC,2023-24,4,Alabama,USA,Undrafted,6-4
+1631169,Josh Minott,Minnesota Timberwolves,MIN,2023-24,4,Memphis,USA,2022,6-8
+1631170,Jaime Jaquez Jr.,Miami Heat,MIA,2023-24,4,UCLA,USA,2023,6-6
+1631172,Ousmane Dieng,Oklahoma City Thunder,OKC,2023-24,4,New Zealand Breakers,France,2022,6-9
+1631197,Jared Rhoden,Detroit Pistons,DET,2023-24,4,Seton Hall,USA,Undrafted,6-5
+1631200,Kris Murray,Portland Trail Blazers,POR,2023-24,4,Iowa,USA,2023,6-8
+1631204,Marcus Sasser,Detroit Pistons,DET,2023-24,4,Houston,USA,2023,6-1
+1631207,Dalen Terry,Chicago Bulls,CHI,2023-24,4,Arizona,USA,2022,6-6
+1631212,Peyton Watson,Denver Nuggets,DEN,2023-24,4,UCLA,USA,2022,6-8
+1631216,Caleb Houstan,Orlando Magic,ORL,2023-24,4,Michigan,Canada,2022,6-8
+1631217,Moussa Diabaté,LA Clippers,LAC,2023-24,4,Michigan,France,2022,6-10
+1631218,Trayce Jackson-Davis,Golden State Warriors,GSW,2023-24,4,Indiana,USA,2023,6-9
+1631221,Collin Gillespie,Denver Nuggets,DEN,2023-24,4,Villanova,USA,Undrafted,6-1
+1631222,Jake LaRavia,Memphis Grizzlies,MEM,2023-24,4,Wake Forest,USA,2022,6-7
+1631223,David Roddy,Phoenix Suns,PHX,2023-24,4,Colorado State,USA,2022,6-4
+1631230,Dominick Barlow,San Antonio Spurs,SAS,2023-24,4,Overtime Elite,USA,Undrafted,6-9
+1631246,Vince Williams Jr.,Memphis Grizzlies,MEM,2023-24,4,Virginia Commonwealth,USA,2022,6-4
+1631260,AJ Green,Milwaukee Bucks,MIL,2023-24,4,Northern Iowa,USA,Undrafted,6-4
+1631288,Jamal Cain,Miami Heat,MIA,2023-24,4,Oakland,USA,Undrafted,6-7
+1631303,Justin Minaya,Portland Trail Blazers,POR,2023-24,4,Providence,USA,Undrafted,6-5
+1631306,Cole Swider,Miami Heat,MIA,2023-24,4,Syracuse,USA,Undrafted,6-8
+1631311,Lester Quinones,Golden State Warriors,GSW,2023-24,4,Memphis,USA,Undrafted,6-4
+1631321,Sidy Cissoko,San Antonio Spurs,SAS,2023-24,4,NBA G League Ignite,France,2023,6-6
+1631323,Simone Fontecchio,Detroit Pistons,DET,2023-24,4,Baskonia,Italy,Undrafted,6-7
+1631466,Nate Williams,Houston Rockets,HOU,2023-24,4,Buffalo,USA,Undrafted,6-5
+1641705,Victor Wembanyama,San Antonio Spurs,SAS,2023-24,4,Metropolitans 92,France,2023,7-4
+1641706,Brandon Miller,Charlotte Hornets,CHA,2023-24,4,Alabama,USA,2023,6-7
+1641708,Amen Thompson,Houston Rockets,HOU,2023-24,4,Overtime Elite,USA,2023,6-7
+1641709,Ausar Thompson,Detroit Pistons,DET,2023-24,4,Overtime Elite,USA,2023,6-7
+1641710,Anthony Black,Orlando Magic,ORL,2023-24,4,Arkansas,USA,2023,6-7
+1641711,Gradey Dick,Toronto Raptors,TOR,2023-24,4,Kansas,USA,2023,6-7
+1641712,Rayan Rupert,Portland Trail Blazers,POR,2023-24,4,New Zealand Breakers,France,2023,6-7
+1641713,GG Jackson,Memphis Grizzlies,MEM,2023-24,4,South Carolina,USA,2023,6-9
+1641715,Cam Whitmore,Houston Rockets,HOU,2023-24,4,Villanova,USA,2023,6-6
+1641716,Jarace Walker,Indiana Pacers,IND,2023-24,4,Houston,USA,2023,6-7
+1641717,Cason Wallace,Oklahoma City Thunder,OKC,2023-24,4,Kentucky,USA,2023,6-3
+1641718,Keyonte George,Utah Jazz,UTA,2023-24,4,Baylor,USA,2023,6-4
+1641720,Jalen Hood-Schifino,Los Angeles Lakers,LAL,2023-24,4,Indiana,USA,2023,6-5
+1641721,Maxwell Lewis,Los Angeles Lakers,LAL,2023-24,4,Pepperdine,USA,2023,6-7
+1641722,Jordan Hawkins,New Orleans Pelicans,NOP,2023-24,4,Connecticut,USA,2023,6-5
+1641723,Kobe Bufkin,Atlanta Hawks,ATL,2023-24,4,Michigan,USA,2023,6-4
+1641724,Jett Howard,Orlando Magic,ORL,2023-24,4,Michigan,USA,2023,6-8
+1641726,Dereck Lively II,Dallas Mavericks,DAL,2023-24,4,Duke,USA,2023,7-1
+1641729,Brice Sensabaugh,Utah Jazz,UTA,2023-24,4,Ohio State,USA,2023,6-6
+1641730,Noah Clowney,Brooklyn Nets,BKN,2023-24,4,Alabama,USA,2023,6-10
+1641731,Bilal Coulibaly,Washington Wizards,WAS,2023-24,4,Metropolitans 92,France,2023,6-7
+1641732,Colby Jones,Sacramento Kings,SAC,2023-24,4,Xavier,USA,2023,6-6
+1641733,Nick Smith Jr.,Charlotte Hornets,CHA,2023-24,4,Arkansas,USA,2023,6-2
+1641734,Emoni Bates,Cleveland Cavaliers,CLE,2023-24,4,Eastern Michigan,USA,2023,6-8
+1641738,Kobe Brown,LA Clippers,LAC,2023-24,4,Missouri,USA,2023,6-7
+1641739,Toumani Camara,Portland Trail Blazers,POR,2023-24,4,Dayton,Belgium,2023,6-7
+1641741,Ricky Council IV,Philadelphia 76ers,PHI,2023-24,4,Arkansas,USA,Undrafted,6-6
+1641748,Andre Jackson Jr.,Milwaukee Bucks,MIL,2023-24,4,Connecticut,USA,2023,6-6
+1641753,Chris Livingston,Milwaukee Bucks,MIL,2023-24,4,Kentucky,USA,2023,6-6
+1641763,Julian Phillips,Chicago Bulls,CHI,2023-24,4,Tennessee,USA,2023,6-6
+1641764,Brandin Podziemski,Golden State Warriors,GSW,2023-24,4,Santa Clara,USA,2023,6-4
+1641765,Olivier-Maxence Prosper,Dallas Mavericks,DAL,2023-24,4,Marquette,Canada,2023,6-7
+1641767,Ben Sheppard,Indiana Pacers,IND,2023-24,4,Belmont,USA,2023,6-6
+1641774,Tristan Vukcevic,Washington Wizards,WAS,2023-24,4,Real Madrid,Italy,2023,7-0
+1641787,Tosan Evbuomwan,Detroit Pistons,DET,2023-24,4,Princeton,United Kingdom,Undrafted,6-8
+1641816,Hunter Tyson,Denver Nuggets,DEN,2023-24,4,Clemson,USA,2023,6-8
+1641854,Craig Porter Jr.,Cleveland Cavaliers,CLE,2023-24,4,Wichita State,USA,Undrafted,6-1
+1641871,Duop Reath,Portland Trail Blazers,POR,2023-24,4,Louisiana State,South Sudan,Undrafted,6-9
+1641998,Trey Jemison III,Memphis Grizzlies,MEM,2023-24,4,Alabama-Birmingham,USA,Undrafted,6-10

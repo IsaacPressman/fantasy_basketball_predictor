@@ -1,0 +1,244 @@
+============================================================
+LINEAR REGRESSION MODEL RESULTS
+============================================================
+
+
+NEXT_PTS:
+----------------------------------------
+
+Ridge:
+  MAE:  2.247
+  RMSE: 2.793
+  R²:   0.826
+
+Lasso:
+  MAE:  2.121
+  RMSE: 2.670
+  R²:   0.841
+
+ElasticNet:
+  MAE:  2.124
+  RMSE: 2.672
+  R²:   0.841
+
+Best: Lasso
+
+NEXT_AST:
+----------------------------------------
+
+Ridge:
+  MAE:  0.714
+  RMSE: 0.895
+  R²:   0.777
+
+Lasso:
+  MAE:  0.615
+  RMSE: 0.790
+  R²:   0.826
+
+ElasticNet:
+  MAE:  0.608
+  RMSE: 0.783
+  R²:   0.829
+
+Best: ElasticNet
+
+NEXT_REB:
+----------------------------------------
+
+Ridge:
+  MAE:  0.833
+  RMSE: 1.110
+  R²:   0.793
+
+Lasso:
+  MAE:  0.794
+  RMSE: 1.069
+  R²:   0.808
+
+ElasticNet:
+  MAE:  0.792
+  RMSE: 1.066
+  R²:   0.809
+
+Best: ElasticNet
+
+NEXT_BLK:
+----------------------------------------
+
+Ridge:
+  MAE:  0.165
+  RMSE: 0.224
+  R²:   0.702
+
+Lasso:
+  MAE:  0.135
+  RMSE: 0.187
+  R²:   0.792
+
+ElasticNet:
+  MAE:  0.135
+  RMSE: 0.188
+  R²:   0.790
+
+Best: Lasso
+
+NEXT_STL:
+----------------------------------------
+
+Ridge:
+  MAE:  0.202
+  RMSE: 0.274
+  R²:   0.551
+
+Lasso:
+  MAE:  0.195
+  RMSE: 0.269
+  R²:   0.569
+
+ElasticNet:
+  MAE:  0.195
+  RMSE: 0.268
+  R²:   0.571
+
+Best: Lasso
+
+NEXT_TOV:
+----------------------------------------
+
+Ridge:
+  MAE:  0.327
+  RMSE: 0.430
+  R²:   0.744
+
+Lasso:
+  MAE:  0.300
+  RMSE: 0.408
+  R²:   0.770
+
+ElasticNet:
+  MAE:  0.301
+  RMSE: 0.408
+  R²:   0.770
+
+Best: Lasso
+
+NEXT_MIN:
+----------------------------------------
+
+Ridge:
+  MAE:  3.797
+  RMSE: 4.848
+  R²:   0.698
+
+Lasso:
+  MAE:  3.590
+  RMSE: 4.641
+  R²:   0.724
+
+ElasticNet:
+  MAE:  3.594
+  RMSE: 4.643
+  R²:   0.723
+
+Best: Lasso
+
+NEXT_FG3M:
+----------------------------------------
+
+Ridge:
+  MAE:  0.375
+  RMSE: 0.473
+  R²:   0.743
+
+Lasso:
+  MAE:  0.342
+  RMSE: 0.442
+  R²:   0.776
+
+ElasticNet:
+  MAE:  0.343
+  RMSE: 0.443
+  R²:   0.775
+
+Best: Lasso
+
+NEXT_FGA:
+----------------------------------------
+
+Ridge:
+  MAE:  1.682
+  RMSE: 2.074
+  R²:   0.826
+
+Lasso:
+  MAE:  1.551
+  RMSE: 1.969
+  R²:   0.843
+
+ElasticNet:
+  MAE:  1.552
+  RMSE: 1.967
+  R²:   0.843
+
+Best: Lasso
+
+NEXT_FTA:
+----------------------------------------
+
+Ridge:
+  MAE:  0.578
+  RMSE: 0.763
+  R²:   0.815
+
+Lasso:
+  MAE:  0.560
+  RMSE: 0.747
+  R²:   0.823
+
+ElasticNet:
+  MAE:  0.537
+  RMSE: 0.721
+  R²:   0.835
+
+Best: ElasticNet
+
+NEXT_FG_PCT:
+----------------------------------------
+
+Ridge:
+  MAE:  0.037
+  RMSE: 0.051
+  R²:   0.509
+
+Lasso:
+  MAE:  0.034
+  RMSE: 0.048
+  R²:   0.558
+
+ElasticNet:
+  MAE:  0.034
+  RMSE: 0.048
+  R²:   0.562
+
+Best: ElasticNet
+
+NEXT_FT_PCT:
+----------------------------------------
+
+Ridge:
+  MAE:  0.105
+  RMSE: 0.165
+  R²:   -0.585
+
+Lasso:
+  MAE:  0.084
+  RMSE: 0.129
+  R²:   0.027
+
+ElasticNet:
+  MAE:  0.094
+  RMSE: 0.149
+  R²:   -0.299
+
+Best: Lasso
